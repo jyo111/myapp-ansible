@@ -1,2 +1,2 @@
-[localhost]
+[webservers]
 10.1.1.95 ansible_user=ubuntu
