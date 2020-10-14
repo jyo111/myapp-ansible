@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: webserver
   become: True
   tasks:
     - name: Install packages
